@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import { Route, Routes, useLocation } from "react-router";
 import Layout from "./pages/Layout/Layout";
-import Profile from "./pages/profile";
+import Profile from "./pages/Profile.jsx";
 import Education from "./pages/Education";
 import About from "./pages/About";
 import Projects from "./pages/Projects";
